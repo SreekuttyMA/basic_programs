@@ -1,0 +1,23 @@
+# from collections import Counter
+
+
+# a = [1,2,2,2,3,23,4,3,5]
+# print(Counter(a))
+            
+            
+            
+ 
+# s1=['a','b','c']
+# s2=['a']
+# a=list(set(s1)&set(s2))
+# print("The common letters are:")
+# for i in a:
+#     print(i)
+   
+s="i am laxmi"
+print(s[1:4])
+
+
+
+
+it can be either no rbe created nor been destroyed it may be fgsv ghw gd  hhj  nn
